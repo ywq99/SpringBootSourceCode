@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wisely.ch5_2_2.Ch522ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.071 sec - in com.wisely.ch5_2_2.Ch522ApplicationTests
