@@ -16,7 +16,7 @@ public class Ch623Application {
 	
 	@RequestMapping("/")
 	public String index(){
-		return "author name is "+ authorSettings.getName()+" and author age is "+authorSettings.getAge();
+		return "author name is ywq &"+ authorSettings.getName()+" and author age is ddd & "+authorSettings.getAge();
 	}
 
     public static void main(String[] args) {
